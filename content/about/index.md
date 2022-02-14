@@ -7,4 +7,4 @@ Hi! 👋
 
 I am passionate about software development and great people that surround it. Always willing to learn and help others in doing so. Join me on this knowledge sharing ride and let's have fun!
 
-Kyiv, Ukraine.
+Kyiv, Ukraine 🇺🇦
