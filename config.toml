@@ -17,7 +17,7 @@ pygmentscodefencesguesssyntax = true
   info = "Software Engineer with primary focus on Java"
   description = "Oleksandr Buhaiov's personal website"
   keywords = "blog,developer,personal"
-  avatarurl = "avatar.png"
+  avatarurl = "avatar.jpg"
   #gravatar = "oleksandr.buhaiov@gmail.com"
 
   favicon_32 = "/img/favicon-32x32.png"

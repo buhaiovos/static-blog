@@ -1,5 +1,5 @@
 +++ 
-draft = true
+draft = false
 date = 2022-02-14T22:40:00+02:00
 title = "My First Post"
 description = "Sharing some plans for this blog and upcoming activities"
